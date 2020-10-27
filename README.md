@@ -1,3 +1,4 @@
 # Swift-FP
 
-Set of functions 
+Set of functions
+Tooling
